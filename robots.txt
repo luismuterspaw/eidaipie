@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eebohboig.o2y.top/sitemap.xml
